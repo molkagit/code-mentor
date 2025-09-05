@@ -1,0 +1,18 @@
+body{
+    background:rgb(207, 39, 207);
+    display:block ;
+    margin:30px;
+    place-items:center;
+}
+form{
+    background:#fff;
+    padding:2.5em ;
+    border-radius:1.5em;
+    max-width:420px;
+}
+.btn-primary:hover{
+    background:hsl(278, 94%, 47%);
+}
+.custom-select{
+    border-radius:1.5em;
+}
