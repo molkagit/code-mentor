@@ -1,0 +1,11 @@
+{
+    "0": {"comment":"the is the list of animals"},
+    "1":{"name":"dog","image":"../assets/dog.jpg"},
+    "2":{"name":"cat","image":"../assets/cat.jpg"},
+    "3":{"name":"parrot","image":"../assets/parrot.jpg"},
+    "4":{"name":"rabbit","image":"../assets/rabbit.jpg"},
+    "5":{"name":"hamster","image":"../assets/hamster.jpg"},
+    "6":{"name":"turtle","image":"../assets/turtle.jpg"}
+    
+
+}
